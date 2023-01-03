@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VKPInteriors/static/css/main.31d6cfe0.css",
+    "main.js": "/VKPInteriors/static/js/main.01f6aeb5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/VKPInteriors/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/VKPInteriors/index.html",
+    "main.01f6aeb5.js.map": "/VKPInteriors/static/js/main.01f6aeb5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/VKPInteriors/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.01f6aeb5.js"
+  ]
+}
